@@ -22,6 +22,7 @@ My Work Experience:<br/>
 🧑💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux nodeJs ,expressJS, mongodb,mysql and JSON coding.<br/>
 
 - 📫 How to reach me:-<br/>
-- https://www.linkedin.com/in/sushma-landge-757a81184/
+- https://www.linkedin.com/in/sushma-landge-757a81184
+
 
 
