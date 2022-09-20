@@ -1,7 +1,7 @@
   Hi, I’m @Sushma 👋
 - 👀 I’m interested in backend(node-Js , express-Js)/React-Js/ Mern stack developer
 - 🌱 I’m currently learning reactJs
-- 💞️ I’m looking to collaborate on creative IT Industry company
+- 💞️ I’m looking to collaborate on creative IT Industry 
 
 Learn About Sushma Landge ❤️
 <img src="https://cdn.dribbble.com/users/3853792/screenshots/13895772/media/adafde56c266d90cfb7f26f328f18b6b.png?compress=1&resize=450x338&vertical=top " />
